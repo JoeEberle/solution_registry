@@ -44,4 +44,7 @@ To get started with the **Solution Registry ** solution repository, follow these
 ![Developer](developer.png)
 
 ![Brand](brand.png)
-    ## Deliverables or Figures![additional_image](solution_registry.png)  <br>![additional_image](solution_stacked_sign.png)  <br>![additional_image](solution_template.png)  <br>
+    
+## Deliverables or Figures
+ ![additional_image](solution_registry.png)  <br>![additional_image](solution_stacked_sign.png)  <br>![additional_image](solution_template.png)  <br>
+    
