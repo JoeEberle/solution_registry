@@ -34,7 +34,7 @@ To get started with the **Solution Registry ** solution repository, follow these
 - **Educational** - Includes educational dialogue and background material
     
 ## Deliverables or Figures
- ![additional_image](solution_registry.png)  <br>![additional_image](solution_template.png)  <br>
+ ![additional_image](solution_registry.png)  <br>![additional_image](solution_registry_image.png)  <br>![additional_image](solution_template.png)  <br>
     
 
 ## Github    
