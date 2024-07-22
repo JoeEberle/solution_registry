@@ -446,3 +446,59 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
                                                                                                                         
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-07-21 20:47:12,843 - INFO - START solution_registry =============================================
+2024-07-21 20:47:12,843 - INFO - START solution_registry Start Time = 2024-07-21 20:47:12
+2024-07-21 20:47:12,843 - INFO - solution_registry Step 0 - Initialize the configuration file parser
+2024-07-21 20:47:12,843 - INFO - Process solution_registry Step 0 - Initializing and starting Logging Process.
+2024-07-21 20:47:13,457 - INFO - PERFORMANCE solution_registry The total process duration was:0.62
+2024-07-21 20:47:13,457 - INFO - PERFORMANCE solution_registry Stop Time = 2024-07-21 20:47:13
+2024-07-21 20:47:13,458 - INFO - PERFORMANCE solution_registry Short process duration less than 3 Seconds:0.62
+2024-07-21 20:47:13,458 - INFO - PERFORMANCE solution_registry Performance optimization is not reccomended
+2024-07-21 20:47:13,458 - INFO - END solution_registry =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-07-21 20:48:09,517 - INFO - START solution_registry =============================================
+2024-07-21 20:48:09,518 - INFO - START solution_registry Start Time = 2024-07-21 20:48:09
+2024-07-21 20:48:09,518 - INFO - solution_registry Step 0 - Initialize the configuration file parser
+2024-07-21 20:48:09,518 - INFO - Process solution_registry Step 0 - Initializing and starting Logging Process.
+2024-07-21 20:48:10,031 - INFO - PERFORMANCE solution_registry The total process duration was:0.51
+2024-07-21 20:48:10,032 - INFO - PERFORMANCE solution_registry Stop Time = 2024-07-21 20:48:10
+2024-07-21 20:48:10,032 - INFO - PERFORMANCE solution_registry Short process duration less than 3 Seconds:0.51
+2024-07-21 20:48:10,032 - INFO - PERFORMANCE solution_registry Performance optimization is not reccomended
+2024-07-21 20:48:10,032 - INFO - END solution_registry =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-07-21 21:07:06,329 - INFO - START solution_registry =============================================
+2024-07-21 21:07:06,329 - INFO - START solution_registry Start Time = 2024-07-21 21:07:06
+2024-07-21 21:07:06,329 - INFO - solution_registry Step 0 - Initialize the configuration file parser
+2024-07-21 21:07:06,330 - INFO - Process solution_registry Step 0 - Initializing and starting Logging Process.
+2024-07-21 21:07:06,903 - INFO - PERFORMANCE solution_registry The total process duration was:0.57
+2024-07-21 21:07:06,904 - INFO - PERFORMANCE solution_registry Stop Time = 2024-07-21 21:07:06
+2024-07-21 21:07:06,904 - INFO - PERFORMANCE solution_registry Short process duration less than 3 Seconds:0.57
+2024-07-21 21:07:06,904 - INFO - PERFORMANCE solution_registry Performance optimization is not reccomended
+2024-07-21 21:07:06,904 - INFO - END solution_registry =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-07-21 21:12:10,533 - INFO - START solution_registry =============================================
+2024-07-21 21:12:10,533 - INFO - START solution_registry Start Time = 2024-07-21 21:12:10
+2024-07-21 21:12:10,533 - INFO - solution_registry Step 0 - Initialize the configuration file parser
+2024-07-21 21:12:10,534 - INFO - Process solution_registry Step 0 - Initializing and starting Logging Process.
+2024-07-21 21:12:11,066 - INFO - PERFORMANCE solution_registry The total process duration was:0.53
+2024-07-21 21:12:11,066 - INFO - PERFORMANCE solution_registry Stop Time = 2024-07-21 21:12:11
+2024-07-21 21:12:11,066 - INFO - PERFORMANCE solution_registry Short process duration less than 3 Seconds:0.53
+2024-07-21 21:12:11,067 - INFO - PERFORMANCE solution_registry Performance optimization is not reccomended
+2024-07-21 21:12:11,067 - INFO - END solution_registry =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
