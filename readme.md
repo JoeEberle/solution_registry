@@ -34,10 +34,10 @@ To get started with the **Solution Registry ** solution repository, follow these
 - Its Fast and Automated
 
 ## Notebook Features
-- **Self Documenting** - Automatically identifies major steps in notebook 
+- **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
 - **Easily Configurable** - Easily modify with **config.INI** - keyname value pairs
-- **Includes Talking Code** - The code can talk to you and explains itself  - seet talking_code = True
+- **Includes Talking Code** - The code explains itself 
 - **Self Logging** - Enhanced python standard logging   
 - **Self Debugging** - Enhanced python standard debugging
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
@@ -47,11 +47,8 @@ To get started with the **Solution Registry ** solution repository, follow these
  ![additional_image](solution_registry.png)  <br>![additional_image](solution_registry_image.png)  <br>![additional_image](solution_template.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
