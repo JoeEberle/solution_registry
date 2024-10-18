@@ -1,4 +1,7 @@
-![Image image_filename](solution_sign.png)# Solution Registry  - Solution Registry - houses a list of solutions![Image image_filename](code.png)
+![Image image_filename](solution_sign.png)
+    # Solution Registry  
+    ## Solution Registry - houses a list of solutions
+    ![Image image_filename](code.png)
 A **solution registry** for Artificial Intelligence (AI) busines solutions serves as a centralized database containing names, directories, and brief descriptions of various AI solutions. 
 
 1.) This **registry facilitates** easy access to a wide range of AI solutions, allowing businesses and individuals to quickly identify relevant tools for their needs.
@@ -20,12 +23,15 @@ To get started with the **Solution Registry ** solution repository, follow these
 2. Install the required dependencies listed at the top of the notebook.
 3. Explore the example code provided in the repository and experiment.
 4. Run the notebook and make it your own - **EASY !**
-    
+    ## Getting Started
 ## Solution Features
+
 - Easy to understand and use  
 - Easily Configurable 
 - Quickly start your project with pre-built templates
 - Its Fast and Automated
+- Saves You Time 
+
 
 ## Notebook Features
 
