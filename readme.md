@@ -1,6 +1,9 @@
 ![Image image_filename](solution_sign.png)
-    # Solution Registry  
-    ## Solution Registry - houses a list of solutions
+    
+# Solution Registry  
+
+## Solution Registry - houses a list of solutions
+
     ![Image image_filename](code.png)
 A **solution registry** for Artificial Intelligence (AI) busines solutions serves as a centralized database containing names, directories, and brief descriptions of various AI solutions. 
 
@@ -33,9 +36,9 @@ To get started with the **Solution Registry ** solution repository, follow these
 - Saves You Time 
 
 
-## Notebook Features
+## Code Features
 
-These Features are design to provide everything you need for **Knowledge Transfer** 
+These features are designed to provide everything you need for **Solution Registry ** 
 
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
@@ -45,6 +48,7 @@ These Features are design to provide everything you need for **Knowledge Transfe
 - **Self Debugging** - Enhanced python standard debugging
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
+
     
 ## List of Figures
  ![additional_image](solution_registry.png)  <br>![additional_image](solution_registry_image.png)  <br>![additional_image](solution_template.png)  <br>
