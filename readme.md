@@ -59,13 +59,3 @@ To get started with the **Solution Registry ** solution repository, follow these
 - ✅ **Educational** Each template includes educational narrative and background context to support learning, teaching, and collaborative development.
 
     
-## List of Figures
- ![additional_image](solution_registry.png)  <br>![additional_image](solution_registry_image.png)  <br>![additional_image](solution_template.png)  <br>
-    
-
-## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
-    
-![Developer](developer.png)
-
-![Brand](brand.png)
-    
